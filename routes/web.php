@@ -13,10 +13,25 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+
+// admin dashboard
+Route::group(['prefix' => 'administrator'], function(){
+    
+    Route::get('login', 'Admin\AuthController@login')->name('administrator.login');
+
+
+    Route::get('/', function(){
+        return view('admin.dashboard');
+    })->name('administrator.dashboard');
+});
+
+
 Route::get('/', function () {
     return view('welcome');
 });
-
+// site frontend
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
