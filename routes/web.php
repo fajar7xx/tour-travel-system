@@ -28,10 +28,11 @@ Route::group(['prefix' => 'administrator'], function(){
 });
 
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 // site frontend
-Auth::routes();
+Route::get('/', 'Site\SiteController@index')->name('site.index');
 
-Route::get('/home', 'HomeController@index')->name('home');
+Auth::routes();
+// Route::get('/home', 'HomeController@index')->name('home');
