@@ -28,6 +28,7 @@ Route::group(['prefix' => 'administrator'], function(){
 });
 
 
+
 // Route::get('/', function () {
 //     return view('welcome');
 // });

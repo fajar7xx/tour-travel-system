@@ -14,6 +14,7 @@ ini paket yang dipakai:
     ☐ laravel helper package
     ☐ laravel sidebar
     ✔ laravel debugbar https://github.com/barryvdh/laravel-debugbar @done (7/17/2020, 8:07:10 PM)
+    ✔ laravel spatie permission @done(20-08-14 23:37)
 
 referensi:
     ☐ https://github.com/ylnn/laravel-tour-sale
@@ -28,3 +29,7 @@ untuk template:
     ☐ https://themeforest.net/item/tripin-html-template/24421554
     ☐ https://themeforest.net/item/rica-travel-tours-and-hotels-site-template/27109033 (lenkap)
     ☐ contek untuk tampilan depannya aja dlu https://themeforest.net/item/wunderlust-travel-tour-html-template/24720664
+
+langkah langkahnya:
+    ☐ buat dulu backend untuk menampung packet yang ada beserta harga dan lain sebagainya
+    ☐ frontend setelah itu
