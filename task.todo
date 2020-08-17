@@ -21,6 +21,8 @@ referensi:
     ☐ https://github.com/vanilophp/demo
     ☐ https://github.com/appstract/laravel-options
     ☐ https://github.com/laravolt/avatar
+    ☐ https://www.goldenrama.com/tour/detail/favorite-west-europe-italy-switzerland
+
 
 untuk template:
     ☐ https://themeforest.net/item/grand-tour-travel-agency-html-template/24718260
@@ -39,3 +41,19 @@ langkah langkahnya:
     ☐ frontend setelah itu
     ☐ rancang erd https://app.lucidchart.com/invitations/accept/423ce15b-95c7-4840-bc6d-a2b6c2b02141
     ☐ rancang tampilan 
+
+pages:
+    ☐ syarat dan ketentuan contek dari sini 
+    ☐ informasi dokumen
+    ☐ faq
+    ☐ career
+    ☐ contact us
+    ☐ blog
+    ☐ about
+
+stack techonologies:
+    ☐ nginx (optional)
+    ☐ aaapanel/webuzo/vestacp
+    ☐ mariadb/postgresql
+    ☐ cloudflare cdn
+    ☐ mail system form email verification
